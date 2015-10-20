@@ -1,0 +1,20 @@
+{
+	"name": "masonry",
+	"version": "2.1.08",
+	"description": "Cascading grid layout library",
+	"homepage": "https://github.com/desandro/masonry.git",
+	"main": [
+		"dist/jquery.masonry.min.js"
+	],
+	"ignore": [
+		"*",
+		"!dist/*"
+	],
+	"dependencies": {
+		"jquery": "*"
+	},
+	"keywords": [
+		"jquery"
+	],
+	"license": "MIT"
+}
